@@ -1,10 +1,23 @@
 # Java Learning 🚀
 
-This repository contains my Java learning journey.
+Welcome to my Java learning repository.
+
+This repository contains my daily Java practice programs, examples, and notes as I learn Java from basics to advanced concepts.
+
+## Repository Structure
+
+```text
+src/
+└── basics/
+    ├── Main.java
+    ├── Operators.java
+    ├── Conditional.java
+    └── ...
+```
 
 ## Topics Covered
 
-* Variables and Data Types
+* Variables & Data Types
 * Operators
 * Conditional Statements
 * Loops
@@ -14,35 +27,30 @@ This repository contains my Java learning journey.
 * Object-Oriented Programming (OOP)
 * Exception Handling
 * Collections Framework
+* File Handling
 
-## Repository Structure
+## Current Progress
 
-```text
-src/
-├── Day01_Variables
-├── Day02_Operators
-├── Day03_Conditions
-├── Day04_Loops
-└── ...
-```
-
-## Goal
-
-To improve my Java programming skills through daily coding practice and projects.
-
-## Progress
-
-* [x] Variables and Data Types
-* [ ] Operators
+* [x] Variables & Data Types
+* [x] Operators
 * [ ] Conditional Statements
 * [ ] Loops
 * [ ] Arrays
 * [ ] Strings
+* [ ] Methods
 * [ ] OOP
-* [ ] Collections
+* [ ] Exception Handling
+* [ ] Collections Framework
+
+## Purpose
+
+* Practice Java programming daily
+* Build a strong foundation in core Java
+* Track learning progress through GitHub
+* Create mini projects and coding exercises
 
 ## Author
 
-Tushar Jaiswar
+**Tushar Jaiswar**
 
 GitHub: devtushar20
