@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="96ba8092-30ce-4e42-9a4c-5ff94b1300fa" name="Changes" comment="If-else,if-else ladder,nested if-else">
+      <change beforePath="$PROJECT_DIR$/src/basics/ConditionalStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/ConditionalStatements.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="4" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;devtushar20&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/devtushar20/Java-learning.git&quot;,
+    &quot;accountId&quot;: &quot;76015389-2121-4ad1-b2c1-bf0d2022e1a6&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000188155107659" />
+      <entry key="MS500" value="1.1629417272599056" />
+      <entry key="S2" value="2.5110610162686666" />
+      <entry key="S5" value="4.704234358802941" />
+      <entry key="S10" value="6.946930570014454" />
+      <entry key="S30" value="9.804682607605622" />
+      <entry key="S60" value="10.883957943714545" />
+      <entry key="M2" value="12.415545131903183" />
+      <entry key="M5" value="17.90488190067359" />
+      <entry key="M10" value="26.127944418764752" />
+      <entry key="M15" value="35.08325248768637" />
+      <entry key="M30" value="60.523634192917044" />
+      <entry key="H1" value="91.54159672572285" />
+      <entry key="H2" value="117.17100114770453" />
+      <entry key="H4" value="133.89154873526206" />
+      <entry key="D1" value="150.38283970815704" />
+      <entry key="W1" value="153.47631278841786" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="2.2677314494155675E-234" />
+      <entry key="S2" value="4.210705120947565E-59" />
+      <entry key="S5" value="5.933200170073548E-24" />
+      <entry key="S10" value="3.3491482858689512E-12" />
+      <entry key="S30" value="2.483908460167097E-4" />
+      <entry key="S60" value="0.026722054258316606" />
+      <entry key="M2" value="0.3176028053462357" />
+      <entry key="M5" value="1.6476186923034561" />
+      <entry key="M10" value="3.9052783014276793" />
+      <entry key="M15" value="6.429313926312227" />
+      <entry key="M30" value="13.142504681811966" />
+      <entry key="H1" value="20.739047497468235" />
+      <entry key="H2" value="26.722190870815627" />
+      <entry key="H4" value="30.521018447636035" />
+      <entry key="D1" value="34.20088747505674" />
+      <entry key="W1" value="34.88447558770301" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9592821683688961" />
+      <entry key="MS500" value="1.1531798698172582" />
+      <entry key="S2" value="2.5041610117742468" />
+      <entry key="S5" value="4.698529195856474" />
+      <entry key="S10" value="6.9426908436553685" />
+      <entry key="S30" value="9.802934120697142" />
+      <entry key="S60" value="10.908271255495782" />
+      <entry key="M2" value="12.723041903807065" />
+      <entry key="M5" value="19.527285782080252" />
+      <entry key="M10" value="29.992385565851883" />
+      <entry key="M15" value="41.46132706186683" />
+      <entry key="M30" value="73.60930376161045" />
+      <entry key="H1" value="112.23542460266708" />
+      <entry key="H2" value="143.86418028691324" />
+      <entry key="H4" value="164.39606468633303" />
+      <entry key="D1" value="184.58065799951785" />
+      <entry key="W1" value="188.3603415114578" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3EezagbMNRj8bp2QqaAol2AfsYJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ConditionalStatement2.executor": "Run",
+    "Application.ConditionalStatements.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Operators.executor": "Run",
+    "Application.Userinput.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Aakash/IdeaProjects/Java-learning/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="Java-learning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.67" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.67" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96ba8092-30ce-4e42-9a4c-5ff94b1300fa" name="Changes" comment="" />
+      <created>1780553890806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780553890806</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Userinput.java">
+      <option name="closed" value="true" />
+      <created>1780556895519</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1780556895519</updated>
+    </task>
+    <task id="LOCAL-00002" summary="If-else,if-else ladder,nested if-else">
+      <option name="closed" value="true" />
+      <created>1780673253537</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1780673253537</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Userinput.java" />
+    <MESSAGE value="If-else,if-else ladder,nested if-else" />
+    <option name="LAST_COMMIT_MESSAGE" value="If-else,if-else ladder,nested if-else" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../Java-learning/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
