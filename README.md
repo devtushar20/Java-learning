@@ -12,8 +12,8 @@ src/
     ├── Main.java
     ├── Operators.java
     ├── userinput.java
-    └── Conditional.java
-    └──
+    └── ConditionalStatements.java (1.if-else , 2.if - else ladder, 3. nested if else)
+    └──ConditionalStatement2.java (Switch case)
 
 ## Topics Covered
 
