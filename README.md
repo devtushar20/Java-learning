@@ -13,7 +13,9 @@ src/
     ├── Operators.java
     ├── userinput.java
     └── ConditionalStatements.java (1.if-else , 2.if - else ladder, 3. nested if else)
-    └──ConditionalStatement2.java (Switch case)
+    └── ConditionalStatement2.java (Switch case)
+    └── CalculatorProject
+    └──
 
 ## Topics Covered
 
@@ -33,7 +35,7 @@ src/
 
 * [x] Variables & Data Types
 * [x] Operators
-* [ ] Conditional Statements
+* [x] Conditional Statements
 * [ ] Loops
 * [ ] Arrays
 * [ ] Strings
