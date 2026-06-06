@@ -35,7 +35,7 @@ src/
 
 * [x] Variables & Data Types
 * [x] Operators
-* [ ] Conditional Statements
+* [x] Conditional Statements
 * [ ] Loops
 * [ ] Arrays
 * [ ] Strings
