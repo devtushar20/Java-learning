@@ -15,7 +15,8 @@ src/
     └── ConditionalStatements.java (1.if-else , 2.if - else ladder, 3. nested if else)
     └── ConditionalStatement2.java (Switch case)
     └── CalculatorProject
-    └──Loops(for,while,do-while)
+    └── Loops(for,while,do-while)
+    └── Arrays
 
 ## Topics Covered
 
@@ -36,8 +37,8 @@ src/
 * [x] Variables & Data Types
 * [x] Operators
 * [x] Conditional Statements
-* [ ] Loops
-* [ ] Arrays
+* [x] Loops
+* [x] Arrays
 * [ ] Strings
 * [ ] Methods
 * [ ] OOP
