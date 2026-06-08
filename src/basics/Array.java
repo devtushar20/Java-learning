@@ -1,5 +1,5 @@
 package basics;
-
+//Remove comments if needed
 public class Array {
     static void main(String[] args) {
 //        int age[] = new  int[5];
@@ -34,13 +34,40 @@ public class Array {
 //        System.out.println("The maximum value is "+max);
 
 // 2-D  Array marks of student
-        int marks[][]={
-                {12,20,32},
-                {20,22,23},
-                {33,44,55}
-        };
-        System.out.println(marks[1][1]);
+//        int marks[][]={
+//                {12,20,32},
+//                {20,22,23},
+//                {33,44,55}
+//        };
+//        System.out.println(marks[1][1]);
 
+        // basic practice questions
+
+        //print all elements int[] arr = {10,20,30,40,50};
+
+          int[] arrs = {10,20,30,40,50};
+//        for(int arr:arrs ){
+//            System.out.println(+arr);
+//        }
+        //sum of elements
+//        int sum=0;
+//        for(int arr:arrs){
+//            sum+=arr;
+//        }
+//        System.out.println("sum is: "+sum);
+
+        //Average of the numbers
+    //        int sum=0;
+    //        for(int arr:arrs){
+    //            sum+=arr;
+    //        }
+    //        double average= (double)sum/arrs.length;
+    //        System.out.println("average is:"+average);
+
+        //count of elements
+
+//        int total= arrs.length;
+//        System.out.println("Total is "+total);
 
 
 
