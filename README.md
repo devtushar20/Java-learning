@@ -25,8 +25,8 @@ src/
 * Conditional Statements
 * Loops
 * Arrays
-* Strings
 * Methods
+* Strings
 * Object-Oriented Programming (OOP)
 * Exception Handling
 * Collections Framework
@@ -39,8 +39,8 @@ src/
 * [x] Conditional Statements
 * [x] Loops
 * [x] Arrays
+* [x] Methods
 * [ ] Strings
-* [ ] Methods
 * [ ] OOP
 * [ ] Exception Handling
 * [ ] Collections Framework
