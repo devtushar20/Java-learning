@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="96ba8092-30ce-4e42-9a4c-5ff94b1300fa" name="Changes" comment="loops">
+      <change beforePath="$PROJECT_DIR$/src/basics/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Methods.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="19" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;devtushar20&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/devtushar20/Java-learning.git&quot;,
+    &quot;accountId&quot;: &quot;76015389-2121-4ad1-b2c1-bf0d2022e1a6&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.264257029879008" />
+      <entry key="MS500" value="1.8885575595242456" />
+      <entry key="S2" value="3.7528234878759665" />
+      <entry key="S5" value="5.627930242992655" />
+      <entry key="S10" value="7.8169713355789385" />
+      <entry key="S30" value="12.731142655836344" />
+      <entry key="S60" value="16.090892459030997" />
+      <entry key="M2" value="18.871956432440495" />
+      <entry key="M5" value="22.296453477366402" />
+      <entry key="M10" value="29.324155396658217" />
+      <entry key="M15" value="37.604446669121856" />
+      <entry key="M30" value="62.51942533063638" />
+      <entry key="H1" value="109.26568836796126" />
+      <entry key="H2" value="190.0355304177993" />
+      <entry key="H4" value="294.2195590022969" />
+      <entry key="D1" value="476.4049856889475" />
+      <entry key="W1" value="523.5268613989027" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.6649611458240153E-174" />
+      <entry key="MS500" value="1.7550149511626856E-35" />
+      <entry key="S2" value="2.047385273889122E-9" />
+      <entry key="S5" value="3.5132788595936394E-4" />
+      <entry key="S10" value="0.024884032598077022" />
+      <entry key="S30" value="0.7043193419951893" />
+      <entry key="S60" value="1.8280540839541803" />
+      <entry key="M2" value="3.0122614413881297" />
+      <entry key="M5" value="4.580351297358122" />
+      <entry key="M10" value="7.123339719457579" />
+      <entry key="M15" value="9.865981937617999" />
+      <entry key="M30" value="17.557050487750452" />
+      <entry key="H1" value="30.18151444637165" />
+      <entry key="H2" value="49.87410786698261" />
+      <entry key="H4" value="74.09983711096035" />
+      <entry key="D1" value="115.48716032117032" />
+      <entry key="W1" value="126.09533875744252" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.1912640205646947" />
+      <entry key="MS500" value="1.8668013225025164" />
+      <entry key="S2" value="3.7343845638485047" />
+      <entry key="S5" value="5.61375739769256" />
+      <entry key="S10" value="7.822799296141046" />
+      <entry key="S30" value="13.335598532460548" />
+      <entry key="S60" value="17.788642786148674" />
+      <entry key="M2" value="21.776309023931052" />
+      <entry key="M5" value="26.810363464810322" />
+      <entry key="M10" value="36.393720277070464" />
+      <entry key="M15" value="47.420800148954186" />
+      <entry key="M30" value="80.03450230713808" />
+      <entry key="H1" value="139.4121056951388" />
+      <entry key="H2" value="239.87900461931815" />
+      <entry key="H4" value="368.2948008246074" />
+      <entry key="D1" value="591.8851672285745" />
+      <entry key="W1" value="649.6210939063016" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3EezagbMNRj8bp2QqaAol2AfsYJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculatorPoject.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConditionalStatement2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConditionalStatements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Methods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Userinput.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Aakash/IdeaProjects/Java-learning/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="Java-learning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.67" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.67" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96ba8092-30ce-4e42-9a4c-5ff94b1300fa" name="Changes" comment="" />
+      <created>1780553890806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780553890806</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Userinput.java">
+      <option name="closed" value="true" />
+      <created>1780556895519</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1780556895519</updated>
+    </task>
+    <task id="LOCAL-00002" summary="If-else,if-else ladder,nested if-else">
+      <option name="closed" value="true" />
+      <created>1780673253537</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1780673253537</updated>
+    </task>
+    <task id="LOCAL-00003" summary="loops">
+      <option name="closed" value="true" />
+      <created>1780730866877</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1780730866877</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Userinput.java" />
+    <MESSAGE value="If-else,if-else ladder,nested if-else" />
+    <MESSAGE value="loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="loops" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../Java-learning/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
