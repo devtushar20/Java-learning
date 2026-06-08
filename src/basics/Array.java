@@ -1,5 +1,5 @@
 package basics;
-
+//Remove comments if needed
 public class Array {
     static void main(String[] args) {
 //        int age[] = new  int[5];
