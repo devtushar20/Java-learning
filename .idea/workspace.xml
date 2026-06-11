@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96ba8092-30ce-4e42-9a4c-5ff94b1300fa" name="Changes" comment="loops">
+      <change afterPath="$PROJECT_DIR$/src/basics/BasicsString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/Java-leaning/basics/Loops.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/basics/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/CalculatorPoject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/CalculatorPoject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/ConditionalStatement2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/ConditionalStatement2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/ConditionalStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/ConditionalStatements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/Loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Loops.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/basics/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/Userinput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Userinput.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,61 +53,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.264257029879008" />
-      <entry key="MS500" value="1.8885575595242456" />
-      <entry key="S2" value="3.7528234878759665" />
-      <entry key="S5" value="5.627930242992655" />
-      <entry key="S10" value="7.8169713355789385" />
-      <entry key="S30" value="12.731142655836344" />
-      <entry key="S60" value="16.090892459030997" />
-      <entry key="M2" value="18.871956432440495" />
-      <entry key="M5" value="22.296453477366402" />
-      <entry key="M10" value="29.324155396658217" />
-      <entry key="M15" value="37.604446669121856" />
-      <entry key="M30" value="62.51942533063638" />
-      <entry key="H1" value="109.26568836796126" />
-      <entry key="H2" value="190.0355304177993" />
-      <entry key="H4" value="294.2195590022969" />
-      <entry key="D1" value="476.4049856889475" />
-      <entry key="W1" value="523.5268613989027" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000017169504" />
+      <entry key="S2" value="1.0077467746751594" />
+      <entry key="S5" value="1.2032073643366359" />
+      <entry key="S10" value="1.6297294267335198" />
+      <entry key="S30" value="2.3568312512019265" />
+      <entry key="S60" value="2.6467424517360043" />
+      <entry key="M2" value="2.816932339789453" />
+      <entry key="M5" value="3.643585830683799" />
+      <entry key="M10" value="8.889574094517641" />
+      <entry key="M15" value="16.517370555270524" />
+      <entry key="M30" value="41.82930158329482" />
+      <entry key="H1" value="90.49485107003943" />
+      <entry key="H2" value="174.64647368581015" />
+      <entry key="H4" value="285.4294876622696" />
+      <entry key="D1" value="485.5809073145136" />
+      <entry key="W1" value="538.451466740003" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.6649611458240153E-174" />
-      <entry key="MS500" value="1.7550149511626856E-35" />
-      <entry key="S2" value="2.047385273889122E-9" />
-      <entry key="S5" value="3.5132788595936394E-4" />
-      <entry key="S10" value="0.024884032598077022" />
-      <entry key="S30" value="0.7043193419951893" />
-      <entry key="S60" value="1.8280540839541803" />
-      <entry key="M2" value="3.0122614413881297" />
-      <entry key="M5" value="4.580351297358122" />
-      <entry key="M10" value="7.123339719457579" />
-      <entry key="M15" value="9.865981937617999" />
-      <entry key="M30" value="17.557050487750452" />
-      <entry key="H1" value="30.18151444637165" />
-      <entry key="H2" value="49.87410786698261" />
-      <entry key="H4" value="74.09983711096035" />
-      <entry key="D1" value="115.48716032117032" />
-      <entry key="W1" value="126.09533875744252" />
+      <entry key="MS100" value="5.251674910087236E-17" />
+      <entry key="MS500" value="5.547017894910991E-4" />
+      <entry key="S2" value="0.15392618905311703" />
+      <entry key="S5" value="0.5187225519308957" />
+      <entry key="S10" value="0.9023734551604202" />
+      <entry key="S30" value="1.481597467855646" />
+      <entry key="S60" value="1.7134244733693256" />
+      <entry key="M2" value="1.8504680915699225" />
+      <entry key="M5" value="2.2139133001704367" />
+      <entry key="M10" value="3.983185172202574" />
+      <entry key="M15" value="6.437677736922193" />
+      <entry key="M30" value="14.299913232714172" />
+      <entry key="H1" value="28.024307606414204" />
+      <entry key="H2" value="49.31662869294446" />
+      <entry key="H4" value="75.68124694634466" />
+      <entry key="D1" value="121.80134833083878" />
+      <entry key="W1" value="133.83175484978227" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.1912640205646947" />
-      <entry key="MS500" value="1.8668013225025164" />
-      <entry key="S2" value="3.7343845638485047" />
-      <entry key="S5" value="5.61375739769256" />
-      <entry key="S10" value="7.822799296141046" />
-      <entry key="S30" value="13.335598532460548" />
-      <entry key="S60" value="17.788642786148674" />
-      <entry key="M2" value="21.776309023931052" />
-      <entry key="M5" value="26.810363464810322" />
-      <entry key="M10" value="36.393720277070464" />
-      <entry key="M15" value="47.420800148954186" />
-      <entry key="M30" value="80.03450230713808" />
-      <entry key="H1" value="139.4121056951388" />
-      <entry key="H2" value="239.87900461931815" />
-      <entry key="H4" value="368.2948008246074" />
-      <entry key="D1" value="591.8851672285745" />
-      <entry key="W1" value="649.6210939063016" />
+      <entry key="MS100" value="1.1016305507831538E-5" />
+      <entry key="MS500" value="0.10202617166753696" />
+      <entry key="S2" value="0.6593201382882863" />
+      <entry key="S5" value="1.3404587406409425" />
+      <entry key="S10" value="2.1955722934526296" />
+      <entry key="S30" value="3.6417296212730514" />
+      <entry key="S60" value="4.244364742456298" />
+      <entry key="M2" value="4.604339446823003" />
+      <entry key="M5" value="5.8281022063829235" />
+      <entry key="M10" value="12.847411548140075" />
+      <entry key="M15" value="22.92747980055139" />
+      <entry key="M30" value="56.09823624495233" />
+      <entry key="H1" value="118.48844778678877" />
+      <entry key="H2" value="223.93412370850518" />
+      <entry key="H4" value="361.0865034903764" />
+      <entry key="D1" value="607.3750920373312" />
+      <entry key="W1" value="672.2820769427703" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -113,38 +122,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculatorPoject.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConditionalStatement2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConditionalStatements.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Loops.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Methods.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Operators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Userinput.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Aakash/IdeaProjects/Java-learning/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Array.executor": "Run",
+    "Application.BasicsString.executor": "Run",
+    "Application.CalculatorPoject.executor": "Run",
+    "Application.ConditionalStatement2.executor": "Run",
+    "Application.ConditionalStatements.executor": "Run",
+    "Application.Loops.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Methods.executor": "Run",
+    "Application.Operators.executor": "Run",
+    "Application.Userinput.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Aakash/IdeaProjects/Java-learning/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="tests" factoryName="Autodetect">
       <module name="Java-learning" />

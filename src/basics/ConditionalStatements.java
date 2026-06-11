@@ -3,7 +3,7 @@
 package basics;
 import java.util.Scanner;
 public class ConditionalStatements {
-    static void main(String[] args) {
+    static void main(BasicsString[] args) {
         //1.Simple if-else code to know if a candidate can vote or not it will help you to understand how if-else works!
         Scanner sc1 = new Scanner(System.in);
         System.out.println("enter your age");

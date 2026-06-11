@@ -3,7 +3,7 @@
 package basics;
 
 public class Methods {
-    static void main(String[] args) {
+    static void main(BasicsString[] args) {
 
 //        System.out.println(1);
 //        System.out.println(2);

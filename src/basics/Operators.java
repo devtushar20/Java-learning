@@ -2,7 +2,7 @@ package basics;
 
 public class Operators {
 
-    public static void main(String[] args) {
+    public static void main(BasicsString[] args) {
 
         int a = 12;
         int b = 7;

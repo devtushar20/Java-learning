@@ -1,7 +1,7 @@
 package basics;
 //Remove comments if needed
 public class Array {
-    static void main(String[] args) {
+    static void main(BasicsString[] args) {
 //        int age[] = new  int[5];
 //        age[0]=5;
 //        age[1]=6;

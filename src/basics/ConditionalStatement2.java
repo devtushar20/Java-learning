@@ -4,7 +4,7 @@ package basics;
 import java.util.Scanner;
 
 public class ConditionalStatement2 {
-    static void main(String[] args) {
+    static void main(BasicsString[] args) {
         //basic switch case example
 
         Scanner sc= new Scanner(System.in);
