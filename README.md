@@ -17,6 +17,7 @@ src/
     └── CalculatorProject
     └── Loops(for,while,do-while)
     └── Arrays
+    └── Methods
 
 ## Topics Covered
 
